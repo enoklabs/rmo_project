@@ -1,0 +1,198 @@
+/*************************************/
+/*************** BODY ****************/
+body{
+	background-color: #F9F9F9;	
+}
+a, i{
+	color: #492f86;
+}
+a:hover{
+	color: #3b2471;
+}
+ul{
+	list-style: none;
+}
+.button{
+	background: #81dee9;
+	border: #4a2f87;
+	width: 100%;
+	font-size: x-large;
+	margin-bottom: 8px;
+}
+.button:hover{
+	background: #2dcdde;
+	border: #3b2471;
+}
+.panel{
+	border: none;
+	background-color: #ceedf1;
+	border-radius: 6px;
+}
+h4{
+	color: #00a7b8;
+}
+dl.tabs dd.active {
+    border-top: 3px solid #492f86;
+}
+
+/*************************************/
+/*********** HEADER & NAV ************/
+.header{
+	border-bottom: 4px solid #33d2d7;
+	background: black;
+}
+.logo{
+	text-align: center;
+}
+li.toggle-topbar{
+	background: #004b5e;
+	max-width: 60px;
+}
+.top-bar{
+	height: 100px;
+	background: transparent;
+}
+
+.top-bar ul > li.has-dropdown .dropdown li a:hover{
+	background: #00a7b8;
+	color: black;
+	transition: all 0.25s ease-in-out 0s;
+	-webkit-transition: all 0.25s ease-in-out 0s;
+	-moz-transition: all 0.25s ease-in-out 0s;
+}
+
+/*************************************/
+/************ BILLBOARD **************/
+#billboard{
+	height: 100%;
+	width: 100%;
+	background: #00a7b8;	
+	background-image: url("../images/bg1.png");
+	background-position: top center;
+	background-repeat: no-repeat;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+.dojo{
+	padding: 0;
+	margin-top: 20px;
+}
+.dojo h2{
+	text-align: center;
+}
+.dojo-msg{
+	margin-top: 50px;
+	margin-bottom: 80px;
+}
+.dojo-msg h5{
+	color: #005e89; 
+	font-size: 3.5em;
+}
+
+
+
+
+/*************************************/
+/************** MESSAGE **************/
+#message{
+	width: 100%;
+	background: #92ddee;
+}
+#message h3{
+	color: #3f9eaf;
+	text-align: center;
+	text-shadow: 0px 2px 2px #a0f8ff;
+	padding: 23px 0;
+}
+
+
+/*************************************/
+/**************** MAIN ***************/
+#main{
+	background: #f8f8f8;
+	height: 100%;
+	width: 100%;
+	padding: 50px 0;
+}
+.section1 .row{
+	background: #F9F9F9;
+}
+.what-is{
+	margin-top: 40px;
+}
+.what p{
+	font-size: 1.2em;
+}
+
+.list li{
+	font-size: 1.2em;
+	list-style: none;
+	padding-bottom: 8px;
+}
+.list i{
+	font-size: 1.3em;
+}
+
+
+
+/*************************************/
+/************** Videos **************/
+
+.video {
+
+	height: 178px;
+}
+
+video{
+	width: 100%;
+	height: 100%;
+}
+
+audio {
+	width: 100%;
+	height: 100%;
+}
+
+
+/*************************************/
+/**************** TEAM ***************/
+#team{
+	background: #eee;
+	padding: 50px 0;
+}
+.get-in-touch{ 
+	padding-top: 50px;
+}
+
+
+
+/*************************************/
+/************** FOOTER **************/
+#footer{
+	height: 100%;
+	width: 100%;
+	background: #191919;
+	color: #00a7b8;
+	border-top: 8px solid #00a7b8;
+	padding-top: 10px;
+	background-image: url("../images/pattern.png");
+}
+#footer ul{
+	list-style: none;
+}
+#footer a, #footer h6, #footer p, #footer i{
+	color: #00a7b8;
+	font-size: 12px;
+}
+
+footer .signature, footer .signature a{
+	color: #00a7b8;
+}
+#footer img{
+	margin-top: 20px;
+}
+footer, footer p{
+	background: black;
+	padding: 3px;
+	font-size: 12px;
+}
