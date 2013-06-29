@@ -30,6 +30,7 @@ ul{
 }
 h4{
 	color: #00a7b8;
+	text-align: center;
 }
 dl.tabs dd.active {
     border-top: 3px solid #492f86;
@@ -72,6 +73,7 @@ li.toggle-topbar{
 	background-repeat: no-repeat;
 	padding-top: 10px;
 	padding-bottom: 30px;
+	border-bottom: 5px solid #ceedf1;
 }
 .dojo{
 	padding: 0;
@@ -96,12 +98,12 @@ li.toggle-topbar{
 /************** MESSAGE **************/
 #message{
 	width: 100%;
-	background: #92ddee;
+	background: #ceedf1;
 }
 #message h3{
 	color: #3f9eaf;
 	text-align: center;
-	text-shadow: 0px 2px 2px #a0f8ff;
+	text-shadow: 0px 2px 2px #dcfcff;
 	padding: 23px 0;
 }
 
@@ -139,31 +141,27 @@ li.toggle-topbar{
 /************** Videos **************/
 
 .video {
-
 	height: 178px;
+	background: black;
 }
 
 video{
 	width: 100%;
 	height: 100%;
+	background: black;
 }
 
 audio {
 	width: 100%;
 	height: 100%;
+	background: black;
 }
-
-
-/*************************************/
-/**************** TEAM ***************/
-#team{
-	background: #eee;
-	padding: 50px 0;
+.dur{
+	background: #a3dae3;
+	border-radius: 4px;
+	padding: 5px;
+	text-align: center;
 }
-.get-in-touch{ 
-	padding-top: 50px;
-}
-
 
 
 /*************************************/
