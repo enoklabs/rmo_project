@@ -3,16 +3,20 @@ Enok Labs Radio.com
 
 ##RMO Final Project##
 
+* Project launch URL: http://enoklabs.com/RMO/rmo_project/index.html
+* Github Project URL: https://github.com/enoklabs/rmo_project/tree/gh-pages
+* Dropbox download URL: https://www.dropbox.com/sh/7s5hziqt6kkm63z/GcS2W22LEk
+
 
 ####HTML Root Files:####
-
- **root = http://enoklabs.com/RMO/rmo_project/
   
 	**root/index.html
 	   root/about.html
 	   root/mixdown.html
 	   root/nyc.html
 	   root/fsad.html
+	   
+**root = http://enoklabs.com/RMO/rmo_project/
 
 ####Media Clip files:####
 	
