@@ -10,11 +10,11 @@ Enok Labs Radio.com
 
 ####HTML Root Files:####
   
-  **root/index.html
-	   root/about.html
-	   root/mixdown.html
-	   root/nyc.html
-	   root/fsad.html
+	**root/index.html
+	  root/about.html
+	  root/mixdown.html
+	  root/nyc.html
+	  root/fsad.html
 	   
 **root = http://enoklabs.com/RMO/rmo_project/
 
